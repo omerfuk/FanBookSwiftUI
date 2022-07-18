@@ -11,6 +11,7 @@
 		DEEE139128853B8D0067C925 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEEE139028853B8D0067C925 /* ContentView.swift */; };
 		DEEE139328853B8E0067C925 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEEE139228853B8E0067C925 /* Assets.xcassets */; };
 		DEEE139628853B8E0067C925 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEEE139528853B8E0067C925 /* Preview Assets.xcassets */; };
+		DEEE139D28853C1B0067C925 /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEEE139C28853C1B0067C925 /* FavoriteModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DEEE139028853B8D0067C925 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DEEE139228853B8E0067C925 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DEEE139528853B8E0067C925 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DEEE139C28853C1B0067C925 /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DEEE138E28853B8D0067C925 /* FanBookSwiftUIApp.swift */,
 				DEEE139028853B8D0067C925 /* ContentView.swift */,
+				DEEE139C28853C1B0067C925 /* FavoriteModel.swift */,
 				DEEE139228853B8E0067C925 /* Assets.xcassets */,
 				DEEE139428853B8E0067C925 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEEE139D28853C1B0067C925 /* FavoriteModel.swift in Sources */,
 				DEEE139128853B8D0067C925 /* ContentView.swift in Sources */,
 				DEEE138F28853B8D0067C925 /* FanBookSwiftUIApp.swift in Sources */,
 			);
