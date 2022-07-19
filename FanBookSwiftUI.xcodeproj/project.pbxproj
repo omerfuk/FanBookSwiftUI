@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE1FB9B12886F4E600B98ADA /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1FB9B02886F4E600B98ADA /* DetailsView.swift */; };
 		DEEE138F28853B8D0067C925 /* FanBookSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEEE138E28853B8D0067C925 /* FanBookSwiftUIApp.swift */; };
 		DEEE139128853B8D0067C925 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEEE139028853B8D0067C925 /* ContentView.swift */; };
 		DEEE139328853B8E0067C925 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEEE139228853B8E0067C925 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DE1FB9B02886F4E600B98ADA /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
 		DEEE138B28853B8D0067C925 /* FanBookSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FanBookSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEEE138E28853B8D0067C925 /* FanBookSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FanBookSwiftUIApp.swift; sourceTree = "<group>"; };
 		DEEE139028853B8D0067C925 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				DEEE138E28853B8D0067C925 /* FanBookSwiftUIApp.swift */,
 				DEEE139028853B8D0067C925 /* ContentView.swift */,
 				DEEE139C28853C1B0067C925 /* FavoriteModel.swift */,
+				DE1FB9B02886F4E600B98ADA /* DetailsView.swift */,
 				DEEE139228853B8E0067C925 /* Assets.xcassets */,
 				DEEE139428853B8E0067C925 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DEEE139D28853C1B0067C925 /* FavoriteModel.swift in Sources */,
+				DE1FB9B12886F4E600B98ADA /* DetailsView.swift in Sources */,
 				DEEE139128853B8D0067C925 /* ContentView.swift in Sources */,
 				DEEE138F28853B8D0067C925 /* FanBookSwiftUIApp.swift in Sources */,
 			);
