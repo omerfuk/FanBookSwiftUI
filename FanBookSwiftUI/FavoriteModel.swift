@@ -39,3 +39,5 @@ let theDarkKnight = FavoriteElements(name: "The Dark Knight", imageName: "darkKn
 let killBill = FavoriteElements(name: "Kill Bill", imageName: "killBill", description: "No 3 Movie")
 
 let favoriteMovies = FavoriteModel(title: "Favorite Movies", elements: [pulpFiction,theDarkKnight,killBill])
+
+let myFavorites = [favoriteBands, favoriteMovies]
